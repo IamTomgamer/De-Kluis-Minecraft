@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Modded Server/Minecraft Instance.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -233,14 +233,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "db7cdd3f7feb6495",
+  "active": "6cf68880ee64976e",
   "lastOpenFiles": [
-    "Modded Server/Minecraft Instance.md",
     "Modded Server/Modded Server.md",
     "Main.md",
-    "Modded Server/Modded Rules.md",
-    "Cross-edition Server/Cross-Edition Rules.md",
     "Cross-edition Server/Cross-Edition Server.md",
+    "Modded Server/Modded Rules.md",
+    "Modded Server/Minecraft Instance.md",
+    "Cross-edition Server/Cross-Edition Rules.md",
     "Modded Server",
     "Cross-edition Server",
     "Welcome.md"
