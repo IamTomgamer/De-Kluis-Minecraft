@@ -30,22 +30,24 @@
 29. Entity Culling
 30. FerriteCore
 31. Geckolib
-32. Iron's Lib
-33. Iron's Spells 'n Spellbooks
-34. Journeymap
-35. JEI
-36. Lithium
-37. Lootr
-38. playeranimator
-39. Pufferfish's Attributes
-40. Pufferfish's Skills
-41. Sable
-42. Simple Voice Chat
-43. Sophisticated Backpacks
-44. Sophisticated Core
-45. Sound Physics Remastered
-46. Steam 'n' Rails Neoforge
-47. Strut Your Stuff
-48. Vyvern Bridge
-49. Vyvern QOL
-50. Vyvern Teams
+32. Gravestone Mod
+33. Gravestone x Curios API Compat
+34. Iron's Lib
+35. Iron's Spells 'n Spellbooks
+36. Journeymap
+37. JEI
+38. Lithium
+39. Lootr
+40. playeranimator
+41. Pufferfish's Attributes
+42. Pufferfish's Skills
+43. Sable
+44. Simple Voice Chat
+45. Sophisticated Backpacks
+46. Sophisticated Core
+47. Sound Physics Remastered
+48. Steam 'n' Rails Neoforge
+49. Strut Your Stuff
+50. Vyvern Bridge
+51. Vyvern QOL
+52. Vyvern Teams
