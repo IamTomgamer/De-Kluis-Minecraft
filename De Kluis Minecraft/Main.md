@@ -2,8 +2,9 @@
 
 # [[Cross-Edition Server]]
 
-[[moderation]]
-Kosten:
+# [[Moderation]]
+
+# Kosten
 
 | Naam                        | Kosten per maand |
 | --------------------------- | ---------------- |
