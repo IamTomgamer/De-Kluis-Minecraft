@@ -1,3 +1,4 @@
+De spelers mogen ook zelf winkels maken.
 
 | Item                 | Spur | Bevel | Sprocket | Cog | Crown | Sun |
 | -------------------- | ---- | ----- | -------- | --- | ----- | --- |
