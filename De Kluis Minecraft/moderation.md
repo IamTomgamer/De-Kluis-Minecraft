@@ -15,6 +15,6 @@ Mogelijke straffen voor het overschrijden van de [[Modded Rules]] of de [[Cross-
 
 
 
-Als iemand 3 keer de regels overschrijdt, dan wordt diegene banned voor een langere tijd. dit kan een week zijn, een paar maanden, of (als de overschrijdingen heel erg zijn) zelfs permanent.
+Als iemand 2/3 keer de regels overschrijdt, dan wordt diegene banned voor een langere tijd. dit kan een week zijn, een paar maanden, of (als de overschrijdingen heel erg zijn) zelfs permanent.
 
 De verbanning kan "appealed" worden. Dan gaat de beslissing van verbanning van de Admins/Moderators naar iemand van de kluis zoals Guy.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modded Server/Money.md",
+                "file": "Modded Server/Modded Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Money"
+              "title": "Modded Rules"
             }
           }
         ]
@@ -191,14 +191,14 @@
   },
   "active": "d4b32f2ecb7849b3",
   "lastOpenFiles": [
-    "Main.md",
-    "Modded Server/Modded Rules.md",
     "Cross-edition Server/Cross-Edition Rules.md",
-    "Cross-edition Server/Cross-Edition Server.md",
-    "Moderation.md",
-    "Modded Server/Modded Server.md",
+    "Modded Server/Modded Rules.md",
     "Modded Server/Minecraft Instance.md",
+    "Modded Server/Modded Server.md",
+    "Moderation.md",
+    "Main.md",
     "Modded Server/Money.md",
+    "Cross-edition Server/Cross-Edition Server.md",
     "imgs",
     "Pasted image 20260822155326.png",
     "imgs/Pasted image 20260822155337.png",

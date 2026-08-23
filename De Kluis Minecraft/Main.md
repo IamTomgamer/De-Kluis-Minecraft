@@ -6,6 +6,9 @@
 
 # Kosten
 
+
+Bisect Hosting:
+
 | Naam                        | Kosten per maand | provider |
 | --------------------------- | ---------------- |----------|
 | Server Met Mods (Java Only) | €40,48           |?         |
