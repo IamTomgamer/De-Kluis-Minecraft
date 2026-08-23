@@ -224,7 +224,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "local",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",
